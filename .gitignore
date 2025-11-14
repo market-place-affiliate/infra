@@ -1,0 +1,8 @@
+# Docker related files
+.env
+.env.local
+
+# Data directories
+data/
+postgres_data/
+redis_data/
